@@ -9,9 +9,9 @@ react-native link react-native-vector-icons
 ## The Application
 - Home Screen
 
-![](./screenshots/ssHome.png)
+![](./ssHome.png)
 
 - Show Screen
 
-![](./screenshots/ssShow.png)
+![](./ssShow.png)
 
